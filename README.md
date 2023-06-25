@@ -68,25 +68,25 @@ The Mobile System App uses the following dependencies:
 ## User authentication
         Users can log in to the app using their email and password.
     
-![login](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/972d78b4-5436-439c-a821-c7f389e0696d)
+![login](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/752ae247-f01d-4130-8686-a1543c6f39da)
 
 ## Student registration
         New students can register by providing their name, email, and password.
     
-![stutreg](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/5430f6dd-e8ef-4f4d-bae3-4d82dfb76134)
+![stud reg](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/ed501051-743e-4862-9050-29b5d9b04fe0)
 
 ## Student information entry
         Registered students can enter their personal and academic information.
 
-![Student Info](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/8b7cd49a-5f16-450f-be97-1dc0574ecb8f)
+![stud info entry](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/29916cc8-3ef5-4f5c-8942-f22bd158bf61)
 
 ## Dashboard
         The app provides a dashboard with the following features:
         Carousel slider displaying images related to the field of study.
         Upcoming events section displaying important events and their dates.
         Navigation drawer for accessing different sections of the app, including home, profile, courses, grades, and schedule.
-
-![dashboard](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/6a0f72d0-b8fc-4248-b645-9dcc2a0eb536)
+        
+![dash](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/86737f4f-3a6e-4ba3-9e71-65581ff7940c)
 
 ## Contributors
     
