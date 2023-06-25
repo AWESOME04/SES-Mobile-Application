@@ -6,7 +6,7 @@
 
 The project is a mobile app developed using Flutter, a cross-platform framework for building mobile applications. The app is designed for a mobile system that includes features for user authentication, student registration, and a dashboard displaying various information. It follows a client-server architecture where the client app interacts with a backend server using Spring boot and  to perform operations like login, registration, and retrieving data.
 
-![Screenshot 2023-06-25 113051](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/9f4dec76-f2b9-463b-bc61-52e6e0a49b46)
+![mobile](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/510fc2bf-85b2-4c8b-bead-135083888553)
 
 The Mobile System App is a Flutter-based mobile application developed as part of a software engineering college coursework. It provides features for user authentication, student registration, and a dashboard displaying relevant information.
 
