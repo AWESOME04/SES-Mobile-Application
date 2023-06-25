@@ -1,8 +1,12 @@
 # SES-Mobile-Application
 
+![2](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/ec252f16-ebc1-49d7-84f6-d53d9ba2d85c)
+
 ## Project Description:
 
 The project is a mobile app developed using Flutter, a cross-platform framework for building mobile applications. The app is designed for a mobile system that includes features for user authentication, student registration, and a dashboard displaying various information. It follows a client-server architecture where the client app interacts with a backend server using Spring boot and  to perform operations like login, registration, and retrieving data.
+
+![Screenshot 2023-06-25 113051](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/9f4dec76-f2b9-463b-bc61-52e6e0a49b46)
 
 The Mobile System App is a Flutter-based mobile application developed as part of a software engineering college coursework. It provides features for user authentication, student registration, and a dashboard displaying relevant information.
 
@@ -61,19 +65,23 @@ The Mobile System App uses the following dependencies:
 
 ## Features
 
-    User authentication: Users can log in to the app using their email and password.
+## User authentication
+        Users can log in to the app using their email and password.
     
 ![login](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/972d78b4-5436-439c-a821-c7f389e0696d)
 
-    Student registration: New students can register by providing their name, email, and password.
+## Student registration
+        New students can register by providing their name, email, and password.
     
 ![stutreg](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/5430f6dd-e8ef-4f4d-bae3-4d82dfb76134)
 
-    Student information entry: Registered students can enter their personal and academic information.
+## Student information entry
+        Registered students can enter their personal and academic information.
 
 ![Student Info](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/8b7cd49a-5f16-450f-be97-1dc0574ecb8f)
 
-    Dashboard: The app provides a dashboard with the following features:
+## Dashboard
+        The app provides a dashboard with the following features:
         Carousel slider displaying images related to the field of study.
         Upcoming events section displaying important events and their dates.
         Navigation drawer for accessing different sections of the app, including home, profile, courses, grades, and schedule.
