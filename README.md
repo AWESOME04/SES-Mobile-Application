@@ -73,7 +73,7 @@ The Mobile System App uses the following dependencies:
 ## Student registration
         New students can register by providing their name, email, and password.
     
-![stud reg](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/ed501051-743e-4862-9050-29b5d9b04fe0)
+![stud reg](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/9a5599a0-641a-4294-8446-eb7964fb35fe)
 
 ## Student information entry
         Registered students can enter their personal and academic information.
