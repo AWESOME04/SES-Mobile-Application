@@ -1,5 +1,7 @@
 # SES-Mobile-Application
 
+## Code for Project is located in the ![MASTER BRANCH](https://github.com/AWESOME04/SES-Mobile-Application/tree/master)
+
 ![2](https://github.com/AWESOME04/SES-Mobile-Application/assets/102630199/ec252f16-ebc1-49d7-84f6-d53d9ba2d85c)
 
 ## Project Description:
